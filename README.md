@@ -5,6 +5,9 @@ In this project, I use MTCNN for face detection and VGG16 for face recognition.
 ### Face Recognition (MTCNN)
 In the realm of computer vision,Face Recognition serves the pivotal role of distinguishing and validating individuals through digital imagery or video snippets, extensively utilized in security infrastructure, biometric verifications, and social media interfaces.
 
+### Calculate Bounding Box Area (Remove Noise Detection)
+For some of the false detections, We filtered out these false detections by calculating the bounding box area.
+
 ### Face Recognition (VGG16)
 VGG16, crafted by the Visual Geometry Group (VGG) at the University of Oxford, stands as a hallmark in the realm of convolutional neural network architectures introduced by Qassim, H., et al. in their paper **Compressed residual-VGG16 CNN model for big data places image recognition**. 
 
@@ -64,6 +67,8 @@ This is result video for vgg16 model with Linear SVM classification (face recogn
 ## Author
 👤 : Wai Hnin Eaindrar Mg  
 📧 : [waihnineaindrarmg@gmail.com](mailto:waihnineaindrarmg@gmail.com)
+👤 : San Chain Tun
+📧 : [sanchaintunucsy@gmail.com](mailto:sanchaintunucsy@gmail.com)
 
 
 ## License

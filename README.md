@@ -51,7 +51,7 @@ Run Train.ipynb
 ```
 In this Train.ipynb , There is vgg16 model for training.
 This is performace plot for train and validation accuracy classify with 5 machine learning algorithms.
-![Accuracy]()
+![Accuracy](confusion_matrix/LR1.png)
 
 
 3. Run this file face_recognition.py

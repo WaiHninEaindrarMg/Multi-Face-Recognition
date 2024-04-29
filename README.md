@@ -10,15 +10,7 @@ VGG16, crafted by the Visual Geometry Group (VGG) at the University of Oxford, s
 
 ### Classifying Images with VGG16 Using Various Machine Learning Algorithms
 
-Logistic Regression: By fitting a logistic function to the extracted features, the model assigns probabilities to each class, facilitating robust and interpretable image classification tasks with VGG16 embeddings.
-
-Linear SVM: Leveraging the high-dimensional feature space extracted by VGG16, the linear SVM effectively delineates decision boundaries, enabling accurate image classification across diverse datasets.
-
-Neural Network: By combining the hierarchical representations learned by VGG16 with additional layers, the neural network can capture complex patterns and relationships, achieving state-of-the-art performance in image classification benchmarks.
-
-Gradient Boosting: By sequentially fitting decision trees to the residual errors of previous models, gradient boosting effectively combines the predictive power of VGG16 embeddings with the flexibility of tree-based learners, yielding robust and accurate image classification results.
-
-Nearest Neighbor: By measuring distances or similarities between feature vectors, nearest neighbor classifiers offer a simple yet powerful approach to image classification, capable of capturing complex data distributions and achieving competitive performance with minimal assumptions.
+We used to classify with 5 machine learning algorithms for classifiation : Logistic Regression, Linear SVM, Neural Network, Gradient Boosting, Nearest Neighbor. 
 
 
 ## Table of Contents

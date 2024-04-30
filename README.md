@@ -61,6 +61,7 @@ Run face_recognition.py
 ```
 After run this face_recognition.py, video output will be showed.
 This is result video for vgg16 model with Linear SVM classification (face recognition result)
+
 ![Result](video-output/output_video_gif.gif)
 
 ##

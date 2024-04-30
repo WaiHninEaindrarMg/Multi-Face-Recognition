@@ -36,8 +36,8 @@ pip install pytorch-mtcnn
 ```
 python face_detection_image.py 
 ```
-
-OR Run this file if you have videos https://github.com/WaiHninEaindrarMg/Multi-Face-Recognition/face_detection_video.py
+OR 
+Run this file if you have videos https://github.com/WaiHninEaindrarMg/Multi-Face-Recognition/face_detection_video.py
 ```
 python face_detection_video.py 
 ```
@@ -61,7 +61,7 @@ Run face_recognition.py
 ```
 After run this face_recognition.py, video output will be showed.
 This is result video for vgg16 model with Linear SVM classification (face recognition result)
-![Result]()
+![Result](video-output/output_video_gif.gif)
 
 ##
 ## Author

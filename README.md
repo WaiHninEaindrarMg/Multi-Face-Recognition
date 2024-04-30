@@ -47,11 +47,14 @@ python face_detection_video.py
 Run Train.ipynb
 ```
 In this Train.ipynb , There is vgg16 model with 5 machine learning classifiers.
-This is performace plot for train and validation accuracy classify with best performance accuracy model (Logistic_Regression).
+The best performance accuracy model is Logistic_Regression.
 The second is Linear_SVM and Neural_Network. 
 The third is Gradient Boosting. 
 Final one is Nearest Neighbor.
+Here is the train and validation accuracy confusion plot for Logistic_Regression. (Train Accuracy)
 ![Accuracy](confusion_matrix/LR1.png) 
+
+(Validation Accuracy)
 ![Accuracy](confusion_matrix/LR2.png)
 
 
